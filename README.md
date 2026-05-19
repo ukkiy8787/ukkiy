@@ -11,7 +11,7 @@ Backend engineer based in Osaka, Japan.
 Lambda · Step Functions · API Gateway · DynamoDB · Bedrock · TypeScript
 
 ### Find me elsewhere
-- 📝 [Zenn](https://zenn.dev/ukkiy)
+- 📝 [Zenn](https://zenn.dev/ukkiy8787)
 - 🐦 [X](https://x.com/ukkiy)
 
 ### Recent writing
